@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Privacy Policy - Notes Handling</title>
+  Privacy Policy - Notes Handling
 </head>
 <body>
   <h1>Privacy Policy for Notes Handling app</h1>
